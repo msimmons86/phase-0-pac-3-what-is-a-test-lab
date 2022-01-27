@@ -20,3 +20,5 @@ describe("what-is-a-test", () => {
     });
   });
 });
+
+console.log(message);
